@@ -1,4 +1,22 @@
-.img-top-icon{
-    width: 20%;
+body{
+    font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic',sans-serif;
+}
+
+
+#top_logo img{
+    width:20%;
     height: auto;
+}
+
+#top_logo h1{
+    font-size: 2.0em;
+}
+
+.img-top-icon{
+    width: 30%;
+    height: auto;
+}
+
+.nav-item a{
+    font-size:1.2rem;
 }
